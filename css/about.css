@@ -1,0 +1,21 @@
+
+.navbar {
+    background-color: #D32F2F !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.heading{
+    text-align: center;
+    color: green;
+}
+p{
+    text-align: center;
+    text-align: justify;
+    padding: 0px auto;
+    border: 2px dotted red;
+    padding-top: 10px;
+    
+}
